@@ -1008,6 +1008,10 @@
   "parent": "yt_channels"
  },
  {
+  "id": "yt_channels_groups_menu",
+  "parent": "yt_channels_local"
+ },
+ {
   "id": "yt_video_info",
   "parent": "yt_player"
  },
