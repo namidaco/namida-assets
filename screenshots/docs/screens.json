@@ -738,5 +738,309 @@
  {
   "id": "party_room_chat",
   "parent": "party_room"
+ },
+ {
+  "id": "advanced_shuffle",
+  "parent": "track_menu"
+ },
+ {
+  "id": "create_playlist",
+  "parent": "playlists_add_menu"
+ },
+ {
+  "id": "rename_playlist",
+  "parent": "playlist_menu"
+ },
+ {
+  "id": "playlist_tags_moods",
+  "parent": "playlist_menu"
+ },
+ {
+  "id": "playlists_configure",
+  "parent": "playlists"
+ },
+ {
+  "id": "playlists_merge",
+  "parent": "playlists"
+ },
+ {
+  "id": "smart_search",
+  "parent": "search"
+ },
+ {
+  "id": "smart_playlist_moods",
+  "parent": "smart_playlist_dialog"
+ },
+ {
+  "id": "go_to_artist",
+  "parent": "track_menu"
+ },
+ {
+  "id": "duplicates_dialog",
+  "parent": "add_to_playlist"
+ },
+ {
+  "id": "sort_preset_name",
+  "parent": "tracks_sort"
+ },
+ {
+  "id": "add_tracks_mood",
+  "parent": "add_tracks"
+ },
+ {
+  "id": "add_tracks_ratings",
+  "parent": "add_tracks"
+ },
+ {
+  "id": "stats_card",
+  "parent": "album_dialog"
+ },
+ {
+  "id": "rating_simple",
+  "parent": "track_stats"
+ },
+ {
+  "id": "track_stats_add",
+  "parent": "track_stats"
+ },
+ {
+  "id": "file_browser_path",
+  "parent": "file_browser"
+ },
+ {
+  "id": "file_browser_new_folder",
+  "parent": "file_browser"
+ },
+ {
+  "id": "eggs_unlock",
+  "parent": "settings_playback_crossfade"
+ },
+ {
+  "id": "sleep_timer_preset",
+  "parent": "sleep_timer"
+ },
+ {
+  "id": "tag_editor_fields",
+  "parent": "tag_editor"
+ },
+ {
+  "id": "tag_editor_find_replace",
+  "parent": "tag_editor_multi"
+ },
+ {
+  "id": "tag_editor_tracks",
+  "parent": "tag_editor_multi"
+ },
+ {
+  "id": "lyrics_offset",
+  "parent": "lyrics_picker"
+ },
+ {
+  "id": "track_set_as",
+  "parent": "track_advanced"
+ },
+ {
+  "id": "track_palette_add",
+  "parent": "track_color_palette"
+ },
+ {
+  "id": "player_audio_configure",
+  "parent": "player"
+ },
+ {
+  "id": "player_queue_configure",
+  "parent": "player_queue"
+ },
+ {
+  "id": "lyrics_editor_edit_line",
+  "parent": "lyrics_editor_line_menu"
+ },
+ {
+  "id": "lyrics_editor_text",
+  "parent": "lyrics_editor"
+ },
+ {
+  "id": "lyrics_editor_offset",
+  "parent": "lyrics_editor"
+ },
+ {
+  "id": "lyrics_editor_stretch",
+  "parent": "lyrics_editor"
+ },
+ {
+  "id": "lyrics_editor_latency",
+  "parent": "lyrics_editor"
+ },
+ {
+  "id": "lyrics_editor_shortcuts",
+  "parent": "lyrics_editor"
+ },
+ {
+  "id": "sound_control_precise",
+  "parent": "sound_control"
+ },
+ {
+  "id": "sound_control_band",
+  "parent": "sound_equalizer"
+ },
+ {
+  "id": "sound_control_eq_preset",
+  "parent": "sound_equalizer"
+ },
+ {
+  "id": "sound_control_save_preset",
+  "parent": "sound_control"
+ },
+ {
+  "id": "party_reactions",
+  "parent": "party_room"
+ },
+ {
+  "id": "party_leave",
+  "parent": "party_room"
+ },
+ {
+  "id": "party_password",
+  "parent": "party_room"
+ },
+ {
+  "id": "party_save_history",
+  "parent": "party_room"
+ },
+ {
+  "id": "sync_connect_ip",
+  "parent": "sync_manager"
+ },
+ {
+  "id": "sync_diagnostics",
+  "parent": "sync_manager"
+ },
+ {
+  "id": "settings_advanced_remove_source",
+  "parent": "settings_advanced"
+ },
+ {
+  "id": "settings_advanced_clear_images",
+  "parent": "settings_advanced"
+ },
+ {
+  "id": "settings_advanced_clear_server",
+  "parent": "settings_advanced"
+ },
+ {
+  "id": "settings_advanced_compress_images",
+  "parent": "settings_advanced"
+ },
+ {
+  "id": "settings_advanced_clear_video_cache",
+  "parent": "settings_advanced"
+ },
+ {
+  "id": "settings_customization_wallpaper",
+  "parent": "settings_customization"
+ },
+ {
+  "id": "settings_extras_subpage_header",
+  "parent": "settings_extras_flags"
+ },
+ {
+  "id": "settings_extras_lyrics_effects",
+  "parent": "settings_extras_flags"
+ },
+ {
+  "id": "settings_extras_common_prefixes",
+  "parent": "settings_extras"
+ },
+ {
+  "id": "settings_extras_image_source",
+  "parent": "settings_extras"
+ },
+ {
+  "id": "settings_extras_integrations",
+  "parent": "settings_extras"
+ },
+ {
+  "id": "settings_extras_webhook",
+  "parent": "settings_extras_integrations"
+ },
+ {
+  "id": "settings_indexer_server_folder",
+  "parent": "settings_add_folder"
+ },
+ {
+  "id": "settings_indexer_extensions",
+  "parent": "settings_indexer"
+ },
+ {
+  "id": "settings_indexer_reindex",
+  "parent": "settings_indexer"
+ },
+ {
+  "id": "settings_playback_notification_buttons",
+  "parent": "settings_playback"
+ },
+ {
+  "id": "settings_playback_count_listen",
+  "parent": "settings_playback"
+ },
+ {
+  "id": "settings_sponsorblock_server",
+  "parent": "settings_youtube_sponsorblock"
+ },
+ {
+  "id": "settings_sponsorblock_category",
+  "parent": "settings_youtube_sponsorblock"
+ },
+ {
+  "id": "settings_youtube_shorts",
+  "parent": "settings_youtube"
+ },
+ {
+  "id": "settings_youtube_page_cache",
+  "parent": "settings_youtube_flags"
+ },
+ {
+  "id": "yt_channel_groups",
+  "parent": "yt_channel_page"
+ },
+ {
+  "id": "yt_channels_local",
+  "parent": "yt_channels"
+ },
+ {
+  "id": "yt_video_info",
+  "parent": "yt_player"
+ },
+ {
+  "id": "yt_clear_video",
+  "parent": "yt_player"
+ },
+ {
+  "id": "yt_download_sheet",
+  "parent": "yt_player"
+ },
+ {
+  "id": "yt_add_to_playlist",
+  "parent": "yt_player"
+ },
+ {
+  "id": "yt_notifications_flags",
+  "parent": "yt_notifications"
+ },
+ {
+  "id": "yt_parallel_downloads",
+  "parent": "yt_downloads"
+ },
+ {
+  "id": "yt_download_task_info",
+  "parent": "yt_downloads"
+ },
+ {
+  "id": "yt_playlist_download_configure",
+  "parent": "yt_local_playlist"
+ },
+ {
+  "id": "yt_stats",
+  "parent": "yt_home_feed"
  }
 ]
