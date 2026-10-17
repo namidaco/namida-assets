@@ -56,6 +56,10 @@
   "parent": null
  },
  {
+  "id": "mood_page",
+  "parent": "moods"
+ },
+ {
   "id": "playlists",
   "parent": null
  },
@@ -324,6 +328,10 @@
   "parent": "settings"
  },
  {
+  "id": "membership",
+  "parent": "yt_manage_accounts"
+ },
+ {
   "id": "settings_extras",
   "parent": "settings"
  },
@@ -349,7 +357,7 @@
  },
  {
   "id": "data_saver",
-  "parent": "settings_youtube"
+  "parent": "player"
  },
  {
   "id": "artists_type_menu",
@@ -384,6 +392,10 @@
   "parent": "home"
  },
  {
+  "id": "recently_added",
+  "parent": "home"
+ },
+ {
   "id": "playlists_add_menu",
   "parent": "playlists"
  },
@@ -400,19 +412,43 @@
   "parent": "queues"
  },
  {
+  "id": "queue_dialog",
+  "parent": "queues"
+ },
+ {
   "id": "tags",
   "parent": null
+ },
+ {
+  "id": "tag_page",
+  "parent": "tags"
  },
  {
   "id": "ratings",
   "parent": null
  },
  {
+  "id": "rating_page",
+  "parent": "ratings"
+ },
+ {
   "id": "languages",
   "parent": null
  },
  {
+  "id": "language_page",
+  "parent": "languages"
+ },
+ {
   "id": "search_results_menu",
+  "parent": "search"
+ },
+ {
+  "id": "search_albums_all",
+  "parent": "search"
+ },
+ {
+  "id": "search_artists_all",
   "parent": "search"
  },
  {
@@ -516,6 +552,10 @@
   "parent": "settings"
  },
  {
+  "id": "file_browser",
+  "parent": "settings_add_folder"
+ },
+ {
   "id": "settings_theme_color_picker",
   "parent": "settings_theme"
  },
@@ -537,6 +577,10 @@
  },
  {
   "id": "settings_playback_video_quality",
+  "parent": "settings_playback"
+ },
+ {
+  "id": "settings_playback_local_video_matching",
   "parent": "settings_playback"
  },
  {
@@ -572,6 +616,14 @@
   "parent": "settings_youtube"
  },
  {
+  "id": "yt_manage_accounts",
+  "parent": "settings_youtube"
+ },
+ {
+  "id": "settings_youtube_ryd",
+  "parent": "settings_youtube"
+ },
+ {
   "id": "settings_advanced_flags",
   "parent": "settings_advanced"
  },
@@ -581,6 +633,14 @@
  },
  {
   "id": "settings_extras_default_tab",
+  "parent": "settings_extras"
+ },
+ {
+  "id": "settings_extras_lyrics_save_location",
+  "parent": "settings_extras"
+ },
+ {
+  "id": "settings_extras_filter_search",
   "parent": "settings_extras"
  },
  {
@@ -624,6 +684,14 @@
   "parent": "yt_home_feed"
  },
  {
+  "id": "yt_account_history",
+  "parent": "yt_playlists_account"
+ },
+ {
+  "id": "yt_hosted_playlist",
+  "parent": "yt_playlists_account"
+ },
+ {
   "id": "yt_downloads",
   "parent": "yt_home_feed"
  },
@@ -636,7 +704,19 @@
   "parent": "yt_channels"
  },
  {
+  "id": "yt_user_channels",
+  "parent": "yt_channels"
+ },
+ {
   "id": "yt_local_playlist",
+  "parent": "yt_playlists"
+ },
+ {
+  "id": "yt_liked",
+  "parent": "yt_playlists"
+ },
+ {
+  "id": "yt_most_played",
   "parent": "yt_playlists"
  },
  {
