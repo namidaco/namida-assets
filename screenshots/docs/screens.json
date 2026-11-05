@@ -160,6 +160,10 @@
   "parent": "player"
  },
  {
+  "id": "player_loop_animation",
+  "parent": "player"
+ },
+ {
   "id": "player_queue",
   "parent": "player"
  },
@@ -189,6 +193,14 @@
  },
  {
   "id": "track_menu",
+  "parent": "tracks"
+ },
+ {
+  "id": "track_menu_play_after",
+  "parent": "track_menu"
+ },
+ {
+  "id": "track_swipe",
   "parent": "tracks"
  },
  {
@@ -268,6 +280,26 @@
   "parent": "settings_customization_background_effect"
  },
  {
+  "id": "effect_fireworks",
+  "parent": "settings_customization_background_effect"
+ },
+ {
+  "id": "effect_deep_ocean",
+  "parent": "settings_customization_background_effect"
+ },
+ {
+  "id": "effect_starfield",
+  "parent": "settings_customization_background_effect"
+ },
+ {
+  "id": "effect_galaxy",
+  "parent": "settings_customization_background_effect"
+ },
+ {
+  "id": "jellys_invasion",
+  "parent": "player"
+ },
+ {
   "id": "visualizer_bars",
   "parent": "player"
  },
@@ -281,6 +313,18 @@
  },
  {
   "id": "visualizer_particles",
+  "parent": "player"
+ },
+ {
+  "id": "visualizer_mirrored_bars",
+  "parent": "player"
+ },
+ {
+  "id": "visualizer_outline",
+  "parent": "player"
+ },
+ {
+  "id": "miniplayer_party_mode",
   "parent": "player"
  },
  {
@@ -389,6 +433,22 @@
  },
  {
   "id": "home_mix_dialog",
+  "parent": "home"
+ },
+ {
+  "id": "home_mix_supremacy",
+  "parent": "home"
+ },
+ {
+  "id": "home_mix_underrated",
+  "parent": "home"
+ },
+ {
+  "id": "home_mix_lost_partners",
+  "parent": "home"
+ },
+ {
+  "id": "home_mix_discover",
   "parent": "home"
  },
  {
@@ -509,6 +569,14 @@
  },
  {
   "id": "lyrics_fullscreen",
+  "parent": "player_lyrics"
+ },
+ {
+  "id": "player_lyrics_break",
+  "parent": "player_lyrics"
+ },
+ {
+  "id": "lyrics_romanization",
   "parent": "player_lyrics"
  },
  {
@@ -722,6 +790,10 @@
  {
   "id": "yt_player",
   "parent": "yt_home_feed"
+ },
+ {
+  "id": "yt_player_dimmed",
+  "parent": "yt_player"
  },
  {
   "id": "party_lobby",
@@ -940,6 +1012,10 @@
   "parent": "settings_customization"
  },
  {
+  "id": "settings_app_icon",
+  "parent": "settings_customization"
+ },
+ {
   "id": "settings_extras_subpage_header",
   "parent": "settings_extras_flags"
  },
@@ -1012,6 +1088,10 @@
   "parent": "yt_channels_local"
  },
  {
+  "id": "yt_cache_priority",
+  "parent": "yt_player"
+ },
+ {
   "id": "yt_video_info",
   "parent": "yt_player"
  },
@@ -1020,8 +1100,16 @@
   "parent": "yt_player"
  },
  {
+  "id": "yt_search_offline",
+  "parent": "search"
+ },
+ {
   "id": "yt_download_sheet",
   "parent": "yt_player"
+ },
+ {
+  "id": "yt_download_tags",
+  "parent": "yt_download_sheet"
  },
  {
   "id": "yt_add_to_playlist",
